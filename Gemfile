@@ -14,7 +14,7 @@ gem "redis",         "~> 3.1.0"
 gem "oj",            "~> 2.0.14"
 gem "multi_json",    "~> 1.8.4"
 gem "tire",          "~> 0.6.2"
-gem "activesupport", "~> 3.2.19"
+gem "activesupport", "~> 4.0.13"
 gem "tzinfo",        "~> 0.3.41"
 
 gem "ohm",          "~> 1.3.2"
