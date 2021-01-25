@@ -6,7 +6,7 @@ gem "unicorn", "~> 4.6.3"
 
 gem "dotenv",   "~> 0.9.0"
 gem "sinatra",  "~> 1.3.6"
-gem "rack-ssl", "~> 1.3.3"
+gem "rack-ssl", "~> 1.4.0"
 
 gem "net-sftp",      "~> 2.1.1"
 gem "psych",         "~> 1.3.4"
